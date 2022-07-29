@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">JMO Clone</string>
+    <string name="login">Login</string>
+    <string name="email_anda">Email Anda</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="lupa_akun">Lupa Akun?</string>
+    <string name="buat_akun">Buat Akun</string>
+    <string name="beranda">Beranda</string>
+    <string name="berita">Berita</string>
+    <string name="kontak">Kontak</string>
+    <string name="profil_saya">Profil Saya</string>
+    <string name="program_layanan">Program Layanan</string>
+    <string name="jaminan_hari_tua">Jaminan Hari Tua</string>
+    <string name="sudah_terdaftar_layanan">Anda sudah terdaftar di layanan ini</string>
+    <string name="jaminan_kecelakaan_kerja">Jaminan Kecelakaan Kerja</string>
+    <string name="program_lainya">Program Lainya</string>
+    <string name="layanan_lainya">Layanan Lainya</string>
+    <string name="pembayaran_iuran">Pembayaran Iuran</string>
+    <string name="promo">Promo</string>
+    <string name="pengkinian_data">Pengkinian Data</string>
+    <string name="mitra_layanan">Mitra Layanan</string>
+    <string name="info_program">Info Program</string>
+    <string name="pelaporan">Pelaporan</string>
+    <string name="kantor_cabang">Kantor Cabang</string>
+    <string name="pengaduan">Pengaduan</string>
+    <string name="berita_terbaru">Berita Terbaru</string>
+    <string name="berita_lainya">Berita Lainya</string>
+</resources>
